@@ -1,6 +1,6 @@
 {
   "name": "noble-device",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "description": "A Node.js lib to abstract BLE (Bluetooth Low Energy) peripherals, uses noble",
   "main": "index.js",
   "scripts": {
@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "noble-mac": "https://github.com/Timeular/noble-mac.git",
-    "noble": "https://github.com/sonyged/noble.git#koov"
+    "noble": "https://github.com/sonyged/noble.git#4f89e9474b6986ebdff2f520c9bd9b247989ad35"
   }
 }

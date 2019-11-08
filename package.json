@@ -31,7 +31,9 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "noble-mac": "https://github.com/Timeular/noble-mac.git",
     "noble": "https://github.com/sonyged/noble.git#4f89e9474b6986ebdff2f520c9bd9b247989ad35"
+  },
+  "optionalDependencies": {
+    "noble-mac": "https://github.com/sonyged/noble-mac.git#795d2d74f7e98e5f651311472adf23e59c081eb8"
   }
 }

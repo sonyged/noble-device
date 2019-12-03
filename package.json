@@ -32,8 +32,5 @@
   },
   "dependencies": {
     "@abandonware/noble": "~1.9.2-5"
-  },
-  "optionalDependencies": {
-    "noble-mac": "https://github.com/sonyged/noble-mac.git#795d2d74f7e98e5f651311472adf23e59c081eb8"
   }
 }
